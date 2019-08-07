@@ -11,6 +11,7 @@
         <module>e3-common</module>
         <module>e3-manager</module>
     </modules>
+         
     <packaging>pom</packaging>
 
     <!-- 集中定义依赖版本号 -->
