@@ -10,6 +10,18 @@
     <modules>
         <module>e3-common</module>
         <module>e3-manager</module>
+        <module>e3-manager-web</module>
+        <module>e3-portal-web</module>
+        <module>e3-content</module>
+        <module>e3-search</module>
+        <module>e3-search-web</module>
+        <module>e3-item-web</module>
+        <module>e3-sso</module>
+        <module>e3-sso-web</module>
+        <module>e3-cart</module>
+        <module>e3-cart-web</module>
+        <module>e3-order</module>
+        <module>e3-order-web</module>
     </modules>
          
     <packaging>pom</packaging>
@@ -36,7 +48,7 @@
         <pagehelper.version>3.4.2-fix</pagehelper.version>
         <jsqlparser.version>0.9.1</jsqlparser.version>
         <commons-fileupload.version>1.3.1</commons-fileupload.version>
-        <jedis.version>2.7.2</jedis.version>
+        <jedis.version>2.9.0</jedis.version>
         <solrj.version>4.10.3</solrj.version>
         <dubbo.version>2.5.3</dubbo.version>
         <zookeeper.version>3.4.7</zookeeper.version>
